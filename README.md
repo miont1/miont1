@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋<br><br>**Python Backend Developer | AWS Certified Cloud Practitioner**<br><br>I build asynchronous backend services, high-performance APIs, and AI/RAG-driven applications. Experienced in decoupling heavy workloads, database query optimization, and cloud integrations.<br><br>- 🔭 **Currently working on:** Async microservices, RAG pipelines, and backend architectures.<br>- 💼 **Experience:** 2 years in commercial e-commerce development (FastAPI, PostgreSQL, Redis, Celery).<br>- ☁️ **Cloud:** AWS Certified Cloud Practitioner (CLF-C02) | Hands-on with EC2, S3, CloudWatch.<br>- 🌱 **Core Tech Stack:** Python, FastAPI, Django, Async SQLAlchemy, Redis, Docker.
+### Hi there 👋<br><br>**Python Backend Developer | AWS Certified Cloud Practitioner**<br><br>I build asynchronous backend services, high-performance APIs, and AI/RAG-driven applications. Experienced in decoupling heavy workloads, database query optimization, and cloud integrations.<br><br>- 🔭 **Currently working on:** Async microservices, RAG pipelines, and backend architectures.<br>- 💼 **Experience:** 2 years in commercial e-commerce development (FastAPI, PostgreSQL, Redis, Celery).<br>- ☁️ **Cloud:** AWS Certified Cloud Practitioner (CLF-C02) | Hands-on with EC2, S3, CloudWatch.<br>- 🌱 **Core Tech Stack:** Python, FastAPI, Django, Async SQLAlchemy, Redis, Docker.
 
 
 ## 🌐 Socials:
